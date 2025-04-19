@@ -17,8 +17,10 @@ This is a **basic calculator** built using **Java** with support for simple arit
 ## 💻 Technologies Used
 
 - Java (Core)
-- HTML
-- CSS
+- IntelliJ / Eclipse / VS Code (Any Java IDE)
+
 ---
 
+## 🚀 How to Run
 
+1. https://yashbajaj02.github.io/Calculator/
